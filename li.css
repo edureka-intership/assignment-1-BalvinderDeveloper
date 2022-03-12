@@ -197,6 +197,9 @@ nav a{
  }
  .tile:hover{
     box-shadow: 2PX 2px 8px grey;
+    background-color: rgb(58, 55, 55);
+   
+    color: white;
  }
  .tilephoto{
     background-size:  240PX 90%;
